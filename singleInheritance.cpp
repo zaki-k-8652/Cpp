@@ -1,4 +1,6 @@
-/**/
+/*
+ Learning how Inheritance works in C++. This program implements single inheritance.
+*/
 #include <iostream>
 using namespace std;
 
